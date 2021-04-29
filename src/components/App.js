@@ -13,6 +13,7 @@ class App extends React.Component {
         q: searchTerm,
       },
     });
+    // check out the console and follow the dot notation:
     console.log(response.data.items);
     this.setState({ videos: response.data.items, selectedVideo: response.data.items[0] });
   };
