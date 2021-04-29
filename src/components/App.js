@@ -22,7 +22,7 @@ class App extends React.Component {
   };
 
   componentDidMount() {
-    this.onSearchTermSubmit('Tom Of Finland 2021');
+    this.onSearchTermSubmit('Lilith fair hits');
   }
 
   render() {
