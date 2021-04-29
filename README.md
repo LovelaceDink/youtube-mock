@@ -1,12 +1,12 @@
 # A YouTube video search bar that produces:
 
-10 youtube videos based on user input
-when clicked, a video becomes a VideoDetail component, larger and playable
+10 youtube videos based on user input.  
+When clicked, a video becomes a VideoDetail component, larger and playable
 
 # Of Note, in this app:
 
-good, solid utilization of the MVC architecture.
-creating a seperate file for the API implementation, and then importing that implementation when needed, making for DRYer code.
+good, solid utilization of the MVC architecture.  
+creating a seperate file for the API implementation, and then importing that implementation when needed, making for DRYer code.  
 I tried to put in as many examples of deconstructing props as I could, to show how best to only use what is needed. And, as an alternative to deeply nested dot notation, creating variables that can then be reused.
 
 # Please feel free to contribute
