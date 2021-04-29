@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const KEY = 'AIzaSyAGi5KvsDHGjIVntGDUVZJNxolU_p1w_qA';
+const KEY = //YOUR GOOGLE YOUTUBE API KEY GOES HERE;
 
 // install AXIOS
 // allows us to create our fetch request with something like - youtube.get('/search')
