@@ -15,7 +15,8 @@ fork, clone and refactor my code. Try using hooks, createRef, etc. Make a PR!!
 
 # This project was all about the React, using AXIOS and the YouTube API
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I bootstrapped this project with [Create React App](https://github.com/facebook/create-react-app).  
+Focusing more on the React here, and less on package management.
 
 ## Available Scripts
 
