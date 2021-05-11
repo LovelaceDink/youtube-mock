@@ -23,7 +23,7 @@ class App extends React.Component {
   };
 
   componentDidMount() {
-    this.onSearchTermSubmit('Lilith fair hits');
+    this.onSearchTermSubmit('East Hampton, Long Island');
   }
 
   render() {
