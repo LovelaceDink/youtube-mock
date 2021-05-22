@@ -11,7 +11,12 @@ I tried to put in as many examples of deconstructing props as I could, to show h
 
 # Please feel free to contribute
 
-fork, clone and refactor my code. Try using hooks, createRef, etc. Make a PR!!
+I love collaboration. Feel Free. Make a PR!!
+
+# For a look at the app that I've been working on so far, head to:
+
+[netlify](https://sad-spence-28b1d3.netlify.app)
+[vercel](https://youtube-mock-three.vercel.app)
 
 # This project was all about the React, using AXIOS and the YouTube API
 

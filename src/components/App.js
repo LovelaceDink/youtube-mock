@@ -4,9 +4,6 @@ import VideoList from './VideoList';
 import VideoDetail from './VideoDetail';
 import useVideos from '../hooks/useVideos';
 
-// deployed:
-// vercel: https://youtube-mock-three.vercel.app
-
 const App = () => {
   const [selectedVideo, setSelectedVideo] = useState(null);
   const { videos, search } = useVideos('Where to eat in East Hampton ');
